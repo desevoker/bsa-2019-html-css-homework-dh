@@ -367,6 +367,7 @@ footer .container {
 }
 
 .copyright {
+    font-size: 12px;
     grid-area: copyright;
     justify-self: end;
 }
